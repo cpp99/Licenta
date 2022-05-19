@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Licenta</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_api_key">AIzaSyBW16qB51hlh_Q7hm9Jyyg0pjaLwZJ3P4w</string>
+</resources>
